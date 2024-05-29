@@ -1,0 +1,8 @@
+﻿  OpenCVApplication.cpp
+C:\Users\Mariusac\Desktop\Procesarea Imaginilor\Proiect\OpenCVApplication.cpp(196,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file '/OpenCVApplication.cpp')
+  
+  OpenCVApplication.vcxproj -> C:\Users\Mariusac\Desktop\Procesarea Imaginilor\Proiect\x64\Debug\OpenCVApplication.exe
+  OpenCV\dll\Debug\opencv_ffmpeg340_64.dll
+  OpenCV\dll\Debug\opencv_world340d.dll
+          2 file(s) copied.
